@@ -27,7 +27,7 @@
 # #         joke = input("Do you want to hear another joke or are you finished? ")
 # # if joke == "finished":
 # #     rate = int(input("Please rate our game 1-10! "))
-# #     final_score = int(rate * 10)
+ #     final_score = int(rate * 10)
 # #     print(str(final_score) + " percent satisfaction rate")
 # #     friend = input("Would you recommend this game to a friend? ")
 
@@ -46,7 +46,7 @@
 
 
 
-
+ 
 
 
 #list of jokes 
